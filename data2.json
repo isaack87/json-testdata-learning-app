@@ -156,8 +156,8 @@
 	"id": 2,
 	"category": "Learn React",
 	"content": {
-		"id": 0,
-		"image": "reactUI",
+		"id": 1,
+		"image": "swiftUI",
 		"time": "2 hours",
 		"description": "Discover the innovative and simple way to build apps on Apple platforms, especially iOS.",
 		"lessons": [{
@@ -226,7 +226,7 @@
 		]
 	},
 	"test": {
-		"id": 0,
+		"id": 1,
 		"image": "swiftUI",
 		"time": "30 minutes",
 		"description": "Test your knowledge of React.",
